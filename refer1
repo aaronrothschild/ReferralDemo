@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Rothschilds.ca : " />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>DS Refer a friend</title>
+
+      <script src="http://app.influitive.com/assets/embed/embed.js"></script>
+      <script type="text/javascript">
+        InfluitiveEmbed.identify({
+          name: "ADVOCATE_NAME",
+          email: "aaron@influitive.com"
+        });
+      </script>
+        
+
+  <script src="http://embed.influitive.com/embed.js" data-infl-hub="embed"></script>
+      
+
+
+  </head>
+
+  <body>
+
+    <p>
+    Our Refer-A-Friend program rewards you for bringing new business to DocuSign.
+    For each friend you refer who becomes a DocuSign paid subscriber, both
+    you and your friend will receive a
+    <strong>
+        $25 cash gift card.
+    </strong>
+</p>
+<h2>
+    How it works:
+</h2>
+<ul>
+    <li>
+        Complete the form for each referral and press Get Started
+    </li>
+    <li>
+        We will send your friend an email telling them about DocuSign
+    </li>
+    <li>
+        If your referral becomes a paid subscriber within 90 days, we will send
+        you and your friend a $25 cash gift card
+    </li>
+</ul>
+<p>
+    <strong>
+        Be fast! Be first!
+    </strong>
+    This referral program is based on first come, first served basis—so you
+    only get credit for the referral if they subscribe through you first.
+</p>
+<p>
+    <strong>
+        There is no limit to the amount of gift cards you can receive!
+    </strong>
+    This offer is not limited to just one friend—you can refer as many friends
+    as you want.
+</p>
+
+</body>
